@@ -72,5 +72,5 @@ https://blog.enebular.com/enebular/how-to-use-enebular-cloud-exec-environment/
 
 - LINE BOT や LINE Notify の仕組みを enebular でつくって動かす
 - メタデータ API からつないでメタデータと他の仕組みと連携する
-- M5Stcak からデータを受け取って LINE Notify に通知する
+- M5Stack からデータを受け取って LINE Notify に通知する
 
