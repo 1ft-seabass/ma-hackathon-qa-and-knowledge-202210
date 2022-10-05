@@ -92,3 +92,9 @@ LINE BOT や LINE Notify といった、今回、ハッカソンで登場する 
 - LINE BOT や LINE Notify に M5Stack の捉えたデータを通知できる
 - メタデータ API と連携した情報を M5Stack に伝えてスマホとは違った見せ方ができる
 - Node-RED に M5Stack から現実世界の情報を送って他の仕組みにつなげる
+
+## 参考文献
+
+![image](https://i.gyazo.com/48a29e0bbec328b7ab43b0e7f39e59b4.png)
+
+（随時追加）
