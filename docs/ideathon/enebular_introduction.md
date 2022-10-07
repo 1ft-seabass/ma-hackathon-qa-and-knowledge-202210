@@ -62,7 +62,7 @@ enebular には、複数フローの管理、共有が可能であったり、�
 > 新リリースのenebularクラウド実行環境の使い方 | enebular blog  
 https://blog.enebular.com/enebular/how-to-use-enebular-cloud-exec-environment/
 
-作ったフローを、一定時間で何かをしたり、HTTP でアクセスした時だけ仕組みが動くような環境「実行環境」も構築できます。
+作ったフローを、一定時間で何かをしたり、HTTP でアクセスした時だけ仕組みが動くような環境「実行環境」も構築できます。LINE BOT の仕組みにも効果的ですね。
 
 ## ハッカソンでこんな風に使える
 
