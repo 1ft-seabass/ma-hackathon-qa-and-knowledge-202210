@@ -1,4 +1,4 @@
-# アイデアソン enebular ご紹介
+# アイデアソン技術紹介 enebular 
 
 みなさん、こんにちは！
 
@@ -73,6 +73,14 @@ https://blog.enebular.com/enebular/how-to-use-enebular-cloud-exec-environment/
 - LINE BOT や LINE Notify の仕組みを enebular でつくって動かす
 - メタデータ API からつないでメタデータと他の仕組みと連携する
 - M5Stack からデータを受け取って LINE Notify に通知する
+
+## いろいろ考えてみましょう！
+
+![image](https://i.gyazo.com/00afcc3de9343b7aa590beffd11e69b7.png)
+
+ということで enebular の技術紹介をしました！
+
+アイデアソンで色々と考えてみましょう！
 
 ## 参考文献
 
