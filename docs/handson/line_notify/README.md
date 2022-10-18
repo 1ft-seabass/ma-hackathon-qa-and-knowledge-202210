@@ -12,7 +12,7 @@ LINE アカウントとスマホアプリインストールを確認します。
 
 ## LINE Notify サイトログイン
 
-LINE Notify サイトにログインしアカウント確認をします。
+LINE Notify サイトにログインします。
 
 ![image](https://i.gyazo.com/c45ee309aa6793bc12f67c24f3a905ce.png)
 
